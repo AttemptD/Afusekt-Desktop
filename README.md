@@ -2,7 +2,7 @@
 
 欢迎使用 Afusekt 桌面端
 
-桌面端指 MACOS / Windows
+桌面端指 Windows
 
 对于账号功能：支持云端服务器同步，支持多线路服务同步
 
