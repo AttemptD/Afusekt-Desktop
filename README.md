@@ -16,7 +16,6 @@
 
 对于定价，正式版本出来后将公布
 
-<img width="1653" height="1229" alt="image" src="https://github.com/user-attachments/assets/c250df64-1dec-4c84-aff7-2c0f38c7f85e" />
 <img width="1653" height="1229" alt="image" src="https://github.com/user-attachments/assets/bed7ce67-3342-4c14-84a7-8cb2821c0e19" />
 <img width="1653" height="1229" alt="image" src="https://github.com/user-attachments/assets/b0b568ad-d210-49e8-9c57-843d409b9469" />
 <img width="1653" height="1229" alt="image" src="https://github.com/user-attachments/assets/f77e2cb1-a6e5-4cf0-9178-c9b05b4a7426" />
